@@ -4,7 +4,7 @@
 # Module wgXPiwik
 #### Version: 1.06 RC1
 #### für XOOPS 2.5.7+
-#### für PHP 5.5, 5.6 an 7.0
+#### für PHP 5.5, 5.6 und 7.0
       
 ![logoModule.png](assets/logoModule.png)
             
